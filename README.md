@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 
 
+BUSINESS MODEL: https://docs.google.com/spreadsheets/d/1OverA-OuONowZht67ZhdUFXuITSkUAjeHhJuUSK8q4w/edit?usp=sharing
 FIGMA LINK: https://www.figma.com/design/FbR3DTw36Zs44tKzNjpJJx/GrabOn-(food-delivery-app)?node-id=0-1&t=1Gy1zlAflM7dpyzM-1
